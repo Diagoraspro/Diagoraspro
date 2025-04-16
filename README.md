@@ -1,26 +1,5 @@
-### 🔧 Tecnologías que uso por áreas de desarrollo
-
-| Frontend         | Backend | CMS/DB         |
-|------------------|---------|----------------|
-| HTML5, CSS3      |PHP orientado a --> | WordPress      |
-| Bootstrap        |         | WooCommerce    |
-| JavaScript, Vue  |         | MySQL          |
-| jQuery           |         |                |
-
 <h1 align="center">¡Hola! 👋 Soy David Colmenárez</h1>
 <h3 align="center">Programador web apasionado por la creación de experiencias digitales</h3>
-
----
-
-### 🧑‍💻 Sobre mí
-
-- 💻 Me encanta el desarrollo web frontend y backend.
-- 🚀 Actualmente estoy mejorando mis habilidades en Vue.js y PHP.
-- 📚 Siempre estoy aprendiendo nuevas tecnologías y buenas prácticas.
-- 🛠️ Enfocado en soluciones con WordPress y WooCommerce.
-- 🎯 Busco contribuir a proyectos interesantes y seguir creciendo como desarrollador.
-
----
 
 ### 🚀 Tecnologías favoritas
 
@@ -34,6 +13,26 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+
+### 🔧 Uso por áreas de desarrollo
+
+| Frontend         | Backend | CMS/DB         |
+|------------------|---------|----------------|
+| HTML5, CSS3      |PHP orientado a --> | WordPress      |
+| Bootstrap        |         | WooCommerce    |
+| JavaScript, Vue  |         | MySQL          |
+| jQuery           |         |                |
+
+### 🧑‍💻 Sobre mí
+
+- 💻 Me encanta el desarrollo web frontend y backend.
+- 🚀 Actualmente estoy mejorando mis habilidades en Vue.js y PHP.
+- 📚 Siempre estoy aprendiendo nuevas tecnologías y buenas prácticas.
+- 🛠️ Enfocado en soluciones con WordPress y WooCommerce.
+- 🎯 Busco contribuir a proyectos interesantes y seguir creciendo como desarrollador.
+
+---
+
 
 ### 📁 Repositorios destacados
 - Proximamente...
