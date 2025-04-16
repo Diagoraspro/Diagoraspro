@@ -1,4 +1,4 @@
-### 🔧 Tecnologías que uso por áreas de desarrollo
+### 🔧 Tecnologías que uso áreas de desarrollo
 
 | Frontend         | Backend | CMS/DB         |
 |------------------|---------|----------------|
